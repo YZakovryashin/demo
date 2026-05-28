@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Демонстрация структуры простой программы."""
+"""
+ Демонстрация структуры простой программы.
+ Version 1.0
+"""
 
 import sys
 from datetime import datetime
